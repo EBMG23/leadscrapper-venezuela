@@ -1,0 +1,5 @@
+{
+  "name": "LeadScrapper Venezuela",
+  "description": "Herramienta avanzada para la extracción de leads comerciales en Venezuela utilizando Google Maps y AI.",
+  "requestFramePermissions": ["geolocation"]
+}
